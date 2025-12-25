@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Ishmael-quant/Ishmael-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Ishmael 👋
+About me
+I am a student interested in understanding how the world works through physics, engineering, and logical thinking.
 
-Here are some ideas to get you started:
+What I’m learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Physics fundamentals
+Problem-solving and thinking habits
+C++ basics (logic first, syntax later)
+Engineering-style reasoning
+Philosophy
+
+How I work
+
+I focus on understanding concepts, not memorizing
+I write explanations in my own words
+I improve projects step by step
+Explore more ideas and devices
+
+Goals
+
+Build strong thinking habits
+Have strong skills in engineering, physics and etc
+
+Current focus
+
+Developing my programing skills
