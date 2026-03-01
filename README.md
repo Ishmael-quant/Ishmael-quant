@@ -24,5 +24,6 @@ Have strong skills in engineering, physics and etc
 Current focus:                           
 Developing my programing skills                             
 
-How To Support Me:                                
+
+                                
 https://ko-fi.com/ishmaelquant
