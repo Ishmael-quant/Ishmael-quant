@@ -23,6 +23,7 @@ Have strong skills in engineering, physics and etc
 
 Current focus:                           
 Developing my programing skills                             
+Solving problems in my community and in the world
 
 
                                 
