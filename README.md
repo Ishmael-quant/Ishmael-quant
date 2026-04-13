@@ -26,5 +26,5 @@ Developing my programing skills
 Solving problems in my community and in the world
 
 
-                                
+https://www.sololearn.com/en/profile/30007011                               
 https://ko-fi.com/ishmaelquant
