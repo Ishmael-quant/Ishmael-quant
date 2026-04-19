@@ -17,9 +17,10 @@ I am a student interested in understanding how the world works through physics, 
   -I improve projects step by step                                   
   -Explore more ideas and devices                                     
 
-##Goals:                                                 
-  -Build strong thinking habits                                           
-  -Have strong skills in engineering, physics and etc                               
+##Goals:                                                                                          
+  -Build strong thinking and problem-solving habits
+  -Develop skills in physics, engineering, and computer science
+  -Create projects that solve real-world problems
 
 ##Current focus:                           
   -Developing my programing skills                             
