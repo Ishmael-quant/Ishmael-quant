@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on :<br>-SignBridge; For translating sign language to speech<br>-Pinpointa; For people and travellers to find places smarter using their specs<br>-Automated Fire Fighting System<br>-QuantBisness<br>-Offline cloud storage device<br>-My development<br>🌱 I’m currently learning<br>-C++<br>-Web Development<br>-SEO Optimization<br>-Physics<br>-Maths<br>⚡ Fun fact<br>"Curiosity drives me. Code brings ideas to life. I'm building technology that solves real problems."
+ I’m currently working on :<br>1-SignBridge; For translating sign language to speech<br>2-Pinpointa; For people and travellers to find places smarter using their specs<br>3-Automated Fire Fighting System (<i>finished</i>)<br>4-QuantBisness<br>5-Development<br>🌱 I’m currently learning<br>-C++<br>-Web Development<br>-SEO Optimization<br>-Physics<br>-Maths<br>⚡ Fun fact<br>"Curiosity drives me. Code brings ideas to life. I'm building technology that solves real problems."
 
 
 ## 🌐 Socials:
