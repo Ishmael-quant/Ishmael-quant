@@ -1,16 +1,24 @@
-# 💫 About Me:
- I’m currently working on :<br>1-SignBridge; For translating sign language to speech<br>2-Pinpointa; For people and travellers to find places smarter using their specs<br>3-Automated Fire Fighting System (<i>finished</i>)<br>4-QuantBisness<br>5-Development<br>🌱 I’m currently learning<br>-C++<br>-Web Development<br>-SEO Optimization<br>-Physics<br>-Maths<br>⚡ Fun fact<br>"Curiosity drives me. Code brings ideas to life. I'm building technology that solves real problems."
+Hi. I'm Ihsmael from Kenya, currently using GitHub to store my code and make it accessible to anyone who wants to see my projects 
+ I’m currently working on projects that solve real-world problems. They include:<br>1-SignBridge; For translating sign language to speech<br>
+ 2-Automated Fire Fighting System (<i>finished</i>)<br>
+ 3-QuantBisness<br>
+ 4-Airborne disease particle collector<br>
+ 5-AI-Crop Disease Detector<br>
+ 6-Pinpointa; For people and travellers to find places smarter using their specs, though someone argued how it's different to Google Maps<br>
 
+ 
+ I’m currently learning<br>
+ -C++<br>
+ -Web Development<br>
+ -ML (Basic things)
+ -Hardware engineering (just basic things, not technical) < br>
+ -Sci-Fi Tech < br>
+ -Communications with Aliens< br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ishmael-ogweno-mboya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCw-X5Fn762soT5c40h7f0pQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishmaelmboya111@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+ 
+ - ⚡ Fun fact<br>"Curiosity drives me. Logic and Problem-solving skills help solve problems and build great things. Technologies that help solve real-world problems, or rather, help humans be aliens"
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  ## 💰 You can help me by donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ishmaelquant) 
-
+I'm also learning how to get along and work with others, so if you have a project or would like to help me with mine, its ok. Just DM me.
