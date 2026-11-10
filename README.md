@@ -1,4 +1,4 @@
-Hi. I'm Ihsmael from Kenya, currently using GitHub to store my code and make it accessible to anyone who wants to see my projects 
+Hi. I'm Ishmael from Kenya, currently using GitHub to store my code and make it accessible to anyone who wants to see my projects 
  I’m currently working on projects that solve real-world problems. They include:<br>1-SignBridge; For translating sign language to speech<br>
  2-Automated Fire Fighting System (<i>finished</i>)<br>
  3-QuantBisness<br>
