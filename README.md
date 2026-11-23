@@ -11,10 +11,10 @@ Hi. I'm Ishmael from Kenya, currently using GitHub to store my code and make it 
  I’m currently learning<br>
      -C++<br>
      -Web Development<br>
-     -ML (Basic things)
-     -Hardware engineering (just basic things, not technical) < br>
-     -Sci-Fi Tech < br>
-     -Communications with Aliens< br>
+     -ML (Basic things)<br>
+     -Hardware engineering (just basic things, not technical)<br>
+     -Sci-Fi Tech <br>
+     -Communications with Aliens<br>
 
  
  - ⚡ Fun fact<br>"Curiosity drives me. Logic and Problem-solving skills help solve problems and build great things. Technologies that help solve real-world problems, or rather, help humans be aliens"
